@@ -1,0 +1,4 @@
+Cảm nhận về Git:
+Git là một công cụ mạnh mẽ để quản lý mã nguồn và làm việc nhóm.
+Việc sử dụng branch giúp tổ chức công việc hiệu quả và tránh xung đột.
+Học Git giúp tôi hiểu rõ hơn về quy trình phát triển phần mềm.
