@@ -14,3 +14,10 @@ Bơi Lội
 Listening Chuẩn
 Viết Chữ Đẹp
 Ghi Nhớ Giỏi
+
+-Kế hoạch học tập:
+Trong học kỳ này, tôi sẽ tập trung học Git và các công cụ DevOps.
+Tôi đặt mục tiêu thành thạo các lệnh Git như commit, merge, rebase.
+Tôi sẽ tham gia các dự án nhóm để áp dụng Git vào thực tế.
+Ngoài ra, tôi dự định học thêm một ngôn ngữ lập trình mới như Go.
+Mục tiêu dài hạn là xây dựng một dự án cá nhân để portfolio.
