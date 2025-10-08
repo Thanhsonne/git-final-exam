@@ -1,0 +1,6 @@
+Tính năng mới: Hệ thống đăng nhập người dùng
+Tính năng này cho phép người dùng đăng nhập bằng email và mật khẩu.
+Giao diện sẽ bao gồm form đăng nhập với các trường email và password.
+Hệ thống sẽ kiểm tra thông tin đăng nhập với cơ sở dữ liệu.
+Nếu đăng nhập thành công, người dùng sẽ được chuyển hướng đến trang chính.
+Tính năng này sẽ được phát triển bằng HTML, CSS và JavaScript.
